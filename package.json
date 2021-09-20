@@ -1,5 +1,5 @@
 {
-  "name": "M5D6_StriveAmazon",
+  "name": "m5d6_striveamazon",
   "version": "1.0.0",
   "description": "StriveAmazon",
   "main": "server.js",
@@ -17,7 +17,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon -e js ./server.js"
   },
   "repository": {
     "type": "git",
