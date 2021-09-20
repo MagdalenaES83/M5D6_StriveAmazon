@@ -16,8 +16,9 @@
   },
   "devDependencies": {},
   "scripts": {
+
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon -e js ./server.js"
+    "start": "nodemon src/server.js",
   },
   "repository": {
     "type": "git",
